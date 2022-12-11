@@ -1,0 +1,16 @@
+##########################################################
+____________________________ BON FISCAL ___________________
+
+_______________________________________________________________
+   Denumire produs                                  Pret       Qty
+___________________________________________________________________
+1.Sinupret                                          12.60       2
+
+                                                  Subtotal:25.20
+--------------------------------------------------------------------
+                                                  Total:25.20
+
+
+>Emis la data de: Dec 11 2022
+Casier : Viczian Andrei.
+   Glovo Bd-ul Brancoveanu , Manager executiv: Ana Giurgescu, Administrator : Mihai Ciobatescu

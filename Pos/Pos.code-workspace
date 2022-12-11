@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"stdlib.h": "c",
+			"stdio.h": "c",
+			"pos.h": "c",
+			"dcl.h": "c"
+		}
+	}
+}
